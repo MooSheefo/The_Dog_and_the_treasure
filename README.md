@@ -16,3 +16,5 @@ left)
 4. Hold button ‘W’ to activate swing animation 
 5. Hold button ‘L’ to activate flowers animation
 
+# Gameplay Video:
+https://drive.google.com/file/d/1FVoj9OnauI_rShtJL4Xa532_7ghjsBKD/view?usp=drive_link
