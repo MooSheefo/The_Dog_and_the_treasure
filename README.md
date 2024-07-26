@@ -1,5 +1,5 @@
 # The_Dog_and_the_treasure
-This is a course project, you play as a dog navigating a a garden to find a ball! 
+a 3D OpenGL C++ game, you play as a dog navigating a a garden to find a ball! 
 # How to Run:
 1. download code files in one folder
 2. click on sln file and open with VSCODE 2019
