@@ -1,0 +1,3 @@
+D:\Educational\graphics\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+D:\Educational\graphics\OpenGL3DTemplate\Debug\OpenGL3DTemplate.pdb
+E:\Educational\GUC\graphics\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
